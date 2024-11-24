@@ -1,0 +1,18 @@
+html {
+    font-size: 23px;
+}
+body {
+    background-color: rgb(220, 223, 72);
+    font-family: Arial, Helvetica, Tahoma;
+    font-weight: 100;
+    font-style: initial;
+    color: rgb(48, 80, 69);
+}
+.happy-jpg{
+    width: 300px;
+    height: 300px;
+}
+.sad-jpg{
+    width: 300px;
+    height: 300px;
+}
